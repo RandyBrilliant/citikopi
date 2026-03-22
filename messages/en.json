@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "siteDescription": "Citikopi Mandailing Beans exports premium Indonesian coffee, bird's nest, marine delicacies, spices, and heritage foods — sourced with integrity from Sumatra to the world.",
+    "home": {
+      "title": "Citikopi Mandailing Beans | Proudly local, perfectly crafted",
+      "description": "Premium Indonesian coffee and specialty exports — Mandailing heritage, ethical sourcing, and craft you can taste in every lot."
+    },
+    "about": {
+      "title": "About us | Citikopi Mandailing Beans",
+      "description": "Our story: from the heart of Indonesia to global markets — sustainability, fairness, and authentic Mandailing craftsmanship."
+    },
+    "products": {
+      "title": "Products | Citikopi Mandailing Beans",
+      "description": "Coffee beans, bird's nest, fish maw, sea cucumber, spices, traditional sweets, and palm sugar — curated for export quality."
+    },
+    "contact": {
+      "title": "Contact | Citikopi Mandailing Beans",
+      "description": "Reach Citikopi Mandailing Beans in Medan for product inquiries, partnerships, and export opportunities."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "contact": "Contact",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language",
+    "mainNavigation": "Main navigation"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "cta": "Export inquiries",
+    "addressLabel": "Visit"
+  },
+  "home": {
+    "featuredCoffee": {
+      "kicker": "Primary product",
+      "title": "Mandailing coffee beans",
+      "description": "Our signature export — carefully processed beans that carry North Sumatra’s highlands in every cup.",
+      "imageAlt": "Citikopi Mandailing coffee product",
+      "cta": "See all products"
+    },
+    "hero": {
+      "kicker": "Mandailing heritage",
+      "title": "From Indonesian highlands to your cup",
+      "subtitle": "We bring Indonesia’s finest — coffee, spices, and natural delicacies — with ethical sourcing and uncompromising quality.",
+      "primaryCta": "Explore products",
+      "secondaryCta": "Our story"
+    },
+    "values": {
+      "title": "Sustainable & ethical sourcing",
+      "intro": "We work closely with farmers, harvesters, and communities so every harvest respects people and place.",
+      "items": {
+        "fair": "Fair compensation and respectful working conditions",
+        "eco": "Environmentally mindful farming and harvesting",
+        "small": "Support for small-scale producers and local knowledge",
+        "biodiversity": "Careful stewardship to protect biodiversity"
+      }
+    },
+    "local": {
+      "title": "100% local & authentic",
+      "body": "Every item is selected, processed, and packaged to preserve authenticity, freshness, and cultural heritage."
+    },
+    "aboutTeaser": {
+      "title": "From the heart of Indonesia",
+      "body": "Citikopi Mandailing Beans is dedicated to sharing Indonesia’s natural treasures with global markets — hand in hand with farmers and artisans.",
+      "cta": "Read about us"
+    },
+    "contactTeaser": {
+      "title": "Partner with us",
+      "body": "Interested in our products or export programs? Our team in Medan is ready to help.",
+      "cta": "Contact"
+    },
+    "introVideo": {
+      "title": "Watch our introduction",
+      "description": "Get to know Citikopi Mandailing Beans in motion — origin, craft, and what we bring to your market.",
+      "playerLabel": "Introduction video player"
+    }
+  },
+  "aboutPage": {
+    "title": "About us",
+    "heroImageAlt": "Citikopi Mandailing coffee — flagship product",
+    "body": "Citikopi Mandailing Beans is a proudly Indonesian company bringing the richness of our islands to the world. We source, process, and export authentic products — from premium coffee and bird’s nest to traditional sweets, spices, and marine delicacies. Rooted in sustainability, fairness, and cultural respect, we work alongside farmers, fishers, and craftspeople so every shipment tells a story of Indonesia’s abundance and care. Our mission is simple: deliver nature’s finest with integrity and heart."
+  },
+  "productsPage": {
+    "title": "Our products",
+    "intro": "A curated range of Indonesian specialties, prepared to meet discerning export and retail standards."
+  },
+  "products": {
+    "coffee": {
+      "title": "Coffee beans",
+      "description": "Single-origin Indonesian coffee from highland farms across Sumatra, Java, and Sulawesi."
+    },
+    "nest": {
+      "title": "Bird’s nest (walet)",
+      "description": "Premium nests harvested sustainably from swallow houses in Sumatra and Kalimantan."
+    },
+    "fishMaw": {
+      "title": "Fish maw (hupio)",
+      "description": "Dried fish maw, rich in collagen — a treasured ingredient in refined cuisines."
+    },
+    "seaCucumber": {
+      "title": "Sea cucumber (haisom)",
+      "description": "Carefully processed sea cucumber from Indonesian waters, ideal for export markets."
+    },
+    "spices": {
+      "title": "Spices & herbs",
+      "description": "Indonesia’s heritage in every aroma — bold, fragrant, and potent."
+    },
+    "sweets": {
+      "title": "Traditional sweets & biscuits",
+      "description": "Classic snacks that blend local flavors with enduring tradition."
+    },
+    "palmSugar": {
+      "title": "Palm sugar",
+      "description": "Naturally tapped and slow-cooked from Indonesian palm trees."
+    }
+  },
+  "contactPage": {
+    "title": "Get in touch",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "hoursTitle": "Office hours",
+    "hoursWeekdays": "Monday – Friday: 8:30 a.m. – 4:00 p.m.",
+    "hoursSaturday": "Saturday: 8:30 a.m. – 12:00 p.m.",
+    "hoursSunday": "Sunday: Closed",
+    "visitTitle": "Address",
+    "mapTitle": "Location",
+    "mapIframeTitle": "Google Map — Citikopi Mandailing Beans, Medan",
+    "directionsCta": "Get directions",
+    "viewOnMapsCta": "Open in Google Maps"
+  }
+}

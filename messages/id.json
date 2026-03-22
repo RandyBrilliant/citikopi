@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "siteDescription": "Citikopi Mandailing Beans mengekspor kopi Indonesia premium, sarang walet, olahan laut, rempah, dan makanan warisan — bersumber dengan integritas dari Sumatra ke dunia.",
+    "home": {
+      "title": "Citikopi Mandailing Beans | Lokal bangga, dibuat sempurna",
+      "description": "Kopi dan produk spesialitas Indonesia premium — warisan Mandailing, sumber etis, dan kerajinan yang terasa di setiap lot."
+    },
+    "about": {
+      "title": "Tentang kami | Citikopi Mandailing Beans",
+      "description": "Cerita kami: dari jantung Indonesia ke pasar global — keberlanjutan, keadilan, dan kerajinan Mandailing yang otentik."
+    },
+    "products": {
+      "title": "Produk | Citikopi Mandailing Beans",
+      "description": "Biji kopi, sarang walet, hipio, haisom, rempah, kue tradisional, dan gula aren — dikurasi untuk kualitas ekspor."
+    },
+    "contact": {
+      "title": "Kontak | Citikopi Mandailing Beans",
+      "description": "Hubungi Citikopi Mandailing Beans di Medan untuk pertanyaan produk, kemitraan, dan peluang ekspor."
+    }
+  },
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "products": "Produk",
+    "contact": "Kontak",
+    "openMenu": "Buka menu",
+    "closeMenu": "Tutup menu",
+    "language": "Bahasa",
+    "mainNavigation": "Navigasi utama"
+  },
+  "footer": {
+    "rights": "Hak cipta dilindungi.",
+    "cta": "Pertanyaan ekspor",
+    "addressLabel": "Kunjungi"
+  },
+  "home": {
+    "featuredCoffee": {
+      "kicker": "Produk utama",
+      "title": "Biji kopi Mandailing",
+      "description": "Produk ekspor unggulan kami — biji yang diolah hati-hati dan membawa cita rasa dataran tinggi Sumatera Utara.",
+      "imageAlt": "Produk kopi Citikopi Mandailing",
+      "cta": "Lihat semua produk"
+    },
+    "hero": {
+      "kicker": "Warisan Mandailing",
+      "title": "Dari dataran tinggi Indonesia ke cangkir Anda",
+      "subtitle": "Kami menghadirkan yang terbaik dari Indonesia — kopi, rempah, dan kuliner alam — dengan sumber etis dan kualitas tanpa kompromi.",
+      "primaryCta": "Lihat produk",
+      "secondaryCta": "Cerita kami"
+    },
+    "values": {
+      "title": "Sumber etis & berkelanjutan",
+      "intro": "Kami bekerja bersama petani, pemetik, dan komunitas agar setiap panen menghormati manusia dan lingkungan.",
+      "items": {
+        "fair": "Kompensasi adil dan kondisi kerja yang hormat",
+        "eco": "Budidaya dan panen yang ramah lingkungan",
+        "small": "Dukungan untuk produsen skala kecil dan pengetahuan lokal",
+        "biodiversity": "Pengelolaan hati-hati untuk melindungi keanekaragaman hayati"
+      }
+    },
+    "local": {
+      "title": "100% lokal & otentik",
+      "body": "Setiap produk dipilih, diolah, dan dikemas untuk menjaga keaslian, kesegaran, dan warisan budaya."
+    },
+    "aboutTeaser": {
+      "title": "Dari jantung Indonesia",
+      "body": "Citikopi Mandailing Beans berdedikasi membagikan kekayaan alam Indonesia ke pasar global — bersama petani dan pengrajin.",
+      "cta": "Baca tentang kami"
+    },
+    "contactTeaser": {
+      "title": "Bermitra dengan kami",
+      "body": "Tertarik dengan produk atau program ekspor kami? Tim di Medan siap membantu.",
+      "cta": "Kontak"
+    },
+    "introVideo": {
+      "title": "Tonton pengenalan kami",
+      "description": "Kenali Citikopi Mandailing Beans — asal, kerajinan, dan nilai yang kami bawa ke pasar Anda.",
+      "playerLabel": "Pemutar video pengenalan"
+    }
+  },
+  "aboutPage": {
+    "title": "Tentang kami",
+    "heroImageAlt": "Kopi Citikopi Mandailing — produk unggulan",
+    "body": "Citikopi Mandailing Beans adalah perusahaan Indonesia yang membawa kekayaan kepulauan kami ke dunia. Kami menyumberkan, mengolah, dan mengekspor produk otentik — dari kopi premium dan sarang walet hingga kue tradisional, rempah, dan olahan laut. Berakar pada keberlanjutan, keadilan, dan penghormatan budaya, kami bekerja bersama petani, nelayan, dan pengrajin agar setiap pengiriman menceritakan kelimpahan dan kepedulian Indonesia. Misi kami sederhana: menyampaikan yang terbaik dari alam dengan integritas dan hati."
+  },
+  "productsPage": {
+    "title": "Produk kami",
+    "intro": "Ragam spesialitas Indonesia yang dikurasi, disiapkan untuk standar ekspor dan ritel yang selektif."
+  },
+  "products": {
+    "coffee": {
+      "title": "Biji kopi",
+      "description": "Kopi single origin dari perkebunan dataran tinggi di Sumatra, Jawa, dan Sulawesi."
+    },
+    "nest": {
+      "title": "Sarang walet",
+      "description": "Sarang premium yang dipanen berkelanjutan dari rumah walet di Sumatra dan Kalimantan."
+    },
+    "fishMaw": {
+      "title": "Hipio (fish maw)",
+      "description": "Hipio kering, kaya kolagen — bahan berharga dalam masakan halus."
+    },
+    "seaCucumber": {
+      "title": "Haisom (teripang)",
+      "description": "Teripang olahan dari perairan Indonesia, ideal untuk pasar ekspor."
+    },
+    "spices": {
+      "title": "Rempah & herba",
+      "description": "Warisan aroma Indonesia — tegas, harum, dan kuat."
+    },
+    "sweets": {
+      "title": "Kue & biskuit tradisional",
+      "description": "Camilan klasik yang memadukan rasa lokal dengan tradisi."
+    },
+    "palmSugar": {
+      "title": "Gula aren",
+      "description": "Disadap alami dan dimasak perlahan dari pohon aren Indonesia."
+    }
+  },
+  "contactPage": {
+    "title": "Hubungi kami",
+    "phoneLabel": "Telepon",
+    "emailLabel": "Email",
+    "hoursTitle": "Jam kantor",
+    "hoursWeekdays": "Senin – Jumat: 08.30 – 16.00 WIB",
+    "hoursSaturday": "Sabtu: 08.30 – 12.00 WIB",
+    "hoursSunday": "Minggu: Libur",
+    "visitTitle": "Alamat",
+    "mapTitle": "Lokasi",
+    "mapIframeTitle": "Peta Google — Citikopi Mandailing Beans, Medan",
+    "directionsCta": "Petunjuk arah",
+    "viewOnMapsCta": "Buka di Google Maps"
+  }
+}

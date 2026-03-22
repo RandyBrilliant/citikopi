@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "siteDescription": "Citikopi Mandailing Beans 出口优质印尼咖啡、燕窝、海味、香料与传统食品——从苏门答腊以诚信采购，面向世界。",
+    "home": {
+      "title": "Citikopi Mandailing Beans | 本土自豪，匠心呈现",
+      "description": "印尼精品咖啡与特色出口产品——曼代宁传承、道德采购与可追溯的匠心品质。"
+    },
+    "about": {
+      "title": "关于我们 | Citikopi Mandailing Beans",
+      "description": "我们的故事：从印尼之心走向世界——可持续、公平与真实的曼代宁工艺。"
+    },
+    "products": {
+      "title": "产品 | Citikopi Mandailing Beans",
+      "description": "咖啡豆、燕窝、花胶、海参、香料、传统糕点与棕榈糖——为出口级品质而甄选。"
+    },
+    "contact": {
+      "title": "联系 | Citikopi Mandailing Beans",
+      "description": "在棉兰联系 Citikopi Mandailing Beans：产品咨询、合作与出口机会。"
+    }
+  },
+  "nav": {
+    "home": "首页",
+    "about": "关于",
+    "products": "产品",
+    "contact": "联系",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单",
+    "language": "语言",
+    "mainNavigation": "主导航"
+  },
+  "footer": {
+    "rights": "版权所有。",
+    "cta": "出口咨询",
+    "addressLabel": "到访"
+  },
+  "home": {
+    "featuredCoffee": {
+      "kicker": "核心产品",
+      "title": "曼代宁咖啡豆",
+      "description": "我们的旗舰出口产品——精心加工，承载北苏门答腊高地的风味。",
+      "imageAlt": "Citikopi Mandailing 咖啡产品",
+      "cta": "查看全部产品"
+    },
+    "hero": {
+      "kicker": "曼代宁传承",
+      "title": "从印尼高地到您的杯中",
+      "subtitle": "我们带来印尼精粹——咖啡、香料与自然珍味——以道德采购与毫不妥协的品质。",
+      "primaryCta": "了解产品",
+      "secondaryCta": "品牌故事"
+    },
+    "values": {
+      "title": "可持续与道德采购",
+      "intro": "我们与农户、采集者与社区紧密合作，让每一次收获都尊重人与土地。",
+      "items": {
+        "fair": "公平报酬与体面的劳动条件",
+        "eco": "注重环境的种植与采集方式",
+        "small": "支持小规模生产者与本土知识",
+        "biodiversity": "谨慎管理以保护生物多样性"
+      }
+    },
+    "local": {
+      "title": "百分百本土与真实",
+      "body": "每一件产品都经甄选、加工与包装，以保存真实、新鲜与文化传承。"
+    },
+    "aboutTeaser": {
+      "title": "来自印尼之心",
+      "body": "Citikopi Mandailing Beans 致力于与农户与工匠携手，把印尼的自然瑰宝带向全球市场。",
+      "cta": "阅读关于我们"
+    },
+    "contactTeaser": {
+      "title": "与我们合作",
+      "body": "对我们的产品或出口计划感兴趣？棉兰团队随时为您服务。",
+      "cta": "联系"
+    },
+    "introVideo": {
+      "title": "观看介绍影片",
+      "description": "了解 Citikopi Mandailing Beans 的产地、工艺与出口价值。",
+      "playerLabel": "介绍视频播放器"
+    }
+  },
+  "aboutPage": {
+    "title": "关于我们",
+    "heroImageAlt": "Citikopi Mandailing 咖啡——旗舰产品",
+    "body": "Citikopi Mandailing Beans 是一家自豪的印尼企业，将群岛的丰饶带向世界。我们采购、加工并出口正宗产品——从精品咖啡与燕窝，到传统甜点、香料与海味珍品。我们以可持续、公平与文化尊重为根基，与农民、渔民与手工艺人并肩，让每一批货物都讲述印尼丰饶与用心的故事。我们的使命很简单：以诚信与真心，呈献大自然最好的馈赠。"
+  },
+  "productsPage": {
+    "title": "我们的产品",
+    "intro": "精选印尼特色系列，满足严谨的出口与零售标准。"
+  },
+  "products": {
+    "coffee": {
+      "title": "咖啡豆",
+      "description": "来自苏门答腊、爪哇与苏拉威西高地农场的印尼单一产地咖啡。"
+    },
+    "nest": {
+      "title": "燕窝",
+      "description": "在苏门答腊与加里曼丹燕屋以可持续方式采集的优质白燕窝。"
+    },
+    "fishMaw": {
+      "title": "花胶（鱼肚）",
+      "description": "富含胶原蛋白的干制鱼肚——精致料理中的珍贵食材。"
+    },
+    "seaCucumber": {
+      "title": "海参",
+      "description": "来自印尼海域、精心加工的海参，适合出口市场。"
+    },
+    "spices": {
+      "title": "香料与草本",
+      "description": "印尼的香气遗产——浓郁、芬芳而有力。"
+    },
+    "sweets": {
+      "title": "传统糕点与饼干",
+      "description": "融合本土风味与悠久传统的经典小食。"
+    },
+    "palmSugar": {
+      "title": "棕榈糖",
+      "description": "取自印尼棕榈树，天然采集并慢火熬制。"
+    }
+  },
+  "contactPage": {
+    "title": "联系我们",
+    "phoneLabel": "电话",
+    "emailLabel": "邮箱",
+    "hoursTitle": "营业时间",
+    "hoursWeekdays": "周一至周五：上午 8:30 – 下午 4:00",
+    "hoursSaturday": "周六：上午 8:30 – 中午 12:00",
+    "hoursSunday": "周日：公休",
+    "visitTitle": "地址",
+    "mapTitle": "位置地图",
+    "mapIframeTitle": "谷歌地图 — Citikopi Mandailing Beans，棉兰",
+    "directionsCta": "路线导航",
+    "viewOnMapsCta": "在 Google 地图中打开"
+  }
+}
