@@ -4,6 +4,7 @@ import { Container } from "@/components/container";
 import { FadeIn } from "@/components/fade-in";
 import { images, productImages } from "@/lib/images";
 import { pageMetadata } from "@/lib/metadata";
+import { absoluteUrl, siteConfig } from "@/lib/site";
 
 const productKeys = [
   "coffee",
@@ -29,9 +30,36 @@ export default async function ProductsPage({ params }: Props) {
   setRequestLocale(locale);
   const t = await getTranslations("productsPage");
   const tp = await getTranslations("products");
+  const collectionSchema = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    inLanguage: locale,
+    name: t("title"),
+    description: t("intro"),
+    url: absoluteUrl(`/${locale}/products`),
+    publisher: {
+      "@type": "Organization",
+      name: siteConfig.name,
+      url: absoluteUrl(`/${locale}`),
+    },
+    hasPart: productKeys.map((key) => ({
+      "@type": "Product",
+      name: tp(`${key}.title`),
+      description: tp(`${key}.description`),
+      category: t("title"),
+      image: absoluteUrl(productImages[key]),
+      brand: {
+        "@type": "Brand",
+        name: siteConfig.name,
+      },
+    })),
+  } as const;
 
   return (
     <>
+      <script type="application/ld+json">
+        {JSON.stringify(collectionSchema)}
+      </script>
       <section className="relative min-h-[42vh] overflow-hidden border-b border-border-subtle">
         <Image
           src={images.coffeeFarmBg}

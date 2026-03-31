@@ -2,16 +2,17 @@ import { routing } from "@/i18n/routing";
 
 /** Single line for Google Maps search / directions (matches storefront). */
 export const mapQueryAddress =
-  "Jl. Yose Rizal No.77, Sei Rengas I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20211, Indonesia";
+  "Jl. Sun Yat Sen No.77, Sei Rengas I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20211, Indonesia";
 
 export const siteConfig = {
   name: "Citikopi Mandailing Beans",
   tagline: "Proudly local, perfectly crafted",
+  logoPath: "/img/product/coffee.png",
   email: "info@citikopi.id",
-  phoneDisplay: "(+62) 822 6142 6342",
-  phoneHref: "tel:+6282261426342",
+  phoneDisplay: "(+62) 853 7130 4729",
+  phoneHref: "tel:+6285371304729",
   addressLines: [
-    "Jl. Yose Rizal No.77, Sei Rengas I",
+    "Jl. Sun Yat Sen No.77, Sei Rengas I",
     "Kec. Medan Kota, Kota Medan, Sumatera Utara 20211",
     "Indonesia",
   ],
@@ -23,6 +24,7 @@ export const siteConfig = {
   get googleMapsDirectionsUrl() {
     return `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(mapQueryAddress)}`;
   },
+  sameAs: [] as string[],
 } as const;
 
 export function getSiteUrl(): string {
